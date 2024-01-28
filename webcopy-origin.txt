@@ -1,0 +1,124 @@
+Uri: https://washing-capsules.citrusshop.by/
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\index.htm
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/css/owl.carousel.min.css
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://washing-capsules.citrusshop.by/css/reset.css
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\css\reset.css
+Content Type: text/css
+
+Uri: https://washing-capsules.citrusshop.by/css/styles.css
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\css\styles.css
+Content Type: text/css
+
+Uri: https://washing-capsules.citrusshop.by/documents/agreement.html
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\documents\agreement.html
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/documents/dogovor_vozvrata.html
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\documents\dogovor_vozvrata.html
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/documents/dostavka.html
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\documents\dostavka.html
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/documents/politics.html
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\documents\politics.html
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/favicon.ico
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://washing-capsules.citrusshop.by/images/1.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\1.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/2.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\2.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/3.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\3.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/4.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\4.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/5.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\5.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/6.webp
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\6.webp
+Content Type: image/webp
+
+Uri: https://washing-capsules.citrusshop.by/images/list1__separator.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\list1__separator.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/offer3__benefit1_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\offer3__benefit1_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/offer3__benefit2_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\offer3__benefit2_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/offer3__benefit3_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\offer3__benefit3_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/offer__name_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\offer__name_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/offer__phone_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\offer__phone_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/order_info2__delivery_image.jpg
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\order_info2__delivery_image.jpg
+Content Type: image/jpeg
+
+Uri: https://washing-capsules.citrusshop.by/images/order_info2__guarantee_image.jpg
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\order_info2__guarantee_image.jpg
+Content Type: image/jpeg
+
+Uri: https://washing-capsules.citrusshop.by/images/slider__arrows.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\slider__arrows.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/images/yellow_tick_icon.png
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\images\yellow_tick_icon.png
+Content Type: image/png
+
+Uri: https://washing-capsules.citrusshop.by/index.html
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\index.html
+Content Type: text/html
+
+Uri: https://washing-capsules.citrusshop.by/js/init.js
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\js\init.js
+Content Type: application/javascript
+
+Uri: https://washing-capsules.citrusshop.by/js/jquery-3.6.0.min.js
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\js\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://washing-capsules.citrusshop.by/js/maskedinput.js
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\js\maskedinput.js
+Content Type: application/javascript
+
+Uri: https://washing-capsules.citrusshop.by/js/owl.carousel.min.js
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://washing-capsules.citrusshop.by/js/submitCounter.js
+File Name: C:\Users\Eugene\Desktop\4\washing-capsules.citrusshop.by\js\submitCounter.js
+Content Type: application/javascript
+
